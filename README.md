@@ -5,6 +5,7 @@
    - git rebase -i HEAD~10
 ### 2. What will this command print to the terminal?
    - git remote -v
+   
    rpta: a list of remote repositories and their URLs
 ### 3. What option can be used with the git config command to apply configurations across the entire git environment?
    - rpta: --global
