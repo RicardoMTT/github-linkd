@@ -19,11 +19,12 @@
     Deje que el usuario edite esa lista antes de reajustar. Este modo también se puede usar para dividir confirmaciones (ver DIVISIÓN DE COMPROMISOS a continuación).
 El formato de la lista de confirmaciones se puede cambiar configurando la opción de configuración rebase.
 ### 6.¿Que es un callback?
-   -rpta : Una funcion que pasa como parametro otra función(funcion de orden superior), esta funcion es asincronico,esto es,que no se ejecuta al momento.función que puede ser llamada dentro de otra función.
-### 6.¿Que es una promesa?
-   -rpta : Un valor que puede estar presenta en cualquier momento,es asincrona, reciben 2 parametros (resolve y reject), para indicarea si se resolvio o rechazo la promesa.Presenta 3 estados: Pendiente,resuelta y rechazada.
-### 7.¿Que es el scope?
-   -rpta : El scope es el alcance de las variables, (variable global y variable local). 
+   - rpta: Una funcion que pasa como parametro otra función(funcion de orden superior), esta funcion es asincronico,esto es,que no se ejecuta al momento.función que puede ser          llamada dentro de otra función.
+
+### 7.¿Que es una promesa?
+   - rpta: Un valor que puede estar presenta en cualquier momento,es asincrona, reciben 2 parametros (resolve y reject), para indicarea si se resolvio o rechazo la promesa.Presenta 3 estados: Pendiente,resuelta y rechazada.
+### 8.¿Que es el scope?
+   - rpta: El scope es el alcance de las variables, (variable global y variable local). 
    
-### 8.¿Que es un closure?
-   -rpta : Funcion que puede acceder a constantes que estan definidas dentro y fuera de la función.
+### 9.¿Que es un closure?
+   - rpta: Funcion que puede acceder a constantes que estan definidas dentro y fuera de la función.
