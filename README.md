@@ -1,4 +1,4 @@
-# github-linkd
+# git-linkedin
 
 **Pregunta**
 ### 1. Why would you use this command?
